@@ -1,0 +1,34 @@
+.container{
+    background-color: black;
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.contact{
+    margin-right: 0.5em;
+}
+#logoAP{
+    width:150px;
+
+}
+img{
+    width:50px;
+}
+.btn{
+    border-width: medium;
+}
+/*---vista mobile---*/
+@media screen and (max-width:575px){
+.container{
+    display: flex;
+    flex-direction: column;
+}
+.contact{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.contact img{
+    margin:0.2em;
+}
+}
