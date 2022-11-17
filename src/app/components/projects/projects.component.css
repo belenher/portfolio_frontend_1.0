@@ -7,9 +7,15 @@
     width: auto;
 }
 .img-proyecto1{
-    box-shadow: 5px 5px 10px #336666;
+    box-shadow: 2px 2px 4px #CE93D8;
 }
 .part1, .part2{
     display: inline-block;
     text-align: justify;
+}
+h4{
+    padding-left: 36px;
+}
+p{
+    padding-left: 36px;
 }
