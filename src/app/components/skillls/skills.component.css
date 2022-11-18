@@ -1,7 +1,10 @@
-.row{
+h1{
     color:white;
+    padding:35px 
+ }
+.row{
     background-color: #536976;
-    padding:35px
+    padding:20px;
 }
 .circulo{
     display: flex;
