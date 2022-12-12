@@ -1,6 +1,5 @@
 .row{
-    background-image: linear-gradient(135deg, #BBD2C5, #536976, 
-	#292e49);
+    background-image: linear-gradient(-225deg, #CBBACC 0%, #2c4467);
 	background-size: 200%;
     animation: fanimado 5s infinite;
 }
