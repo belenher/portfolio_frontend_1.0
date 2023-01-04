@@ -7,7 +7,7 @@ import { Skill } from '../model/skill';
   providedIn: 'root'
 })
 export class SkillService {
-  URL = 'https://portfoliobackend1-production-3679.up.railway.app/skill/';
+  URL = 'https://portfolio-bel.onrender.com/skill/';
   
   constructor(private httpClient: HttpClient) { }
 
