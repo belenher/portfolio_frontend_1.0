@@ -7,7 +7,7 @@ import { Educacion } from '../model/educacion';
   providedIn: 'root'
 })
 export class EducacionService {
-  URL = 'https://portfolio-bel.onrender.com/educacion/';
+  URL = 'https://portfoliobackend1-production-0a4e.up.railway.app/educacion/';
 
   constructor(private httpClient: HttpClient) { }
 
